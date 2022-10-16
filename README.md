@@ -19,8 +19,11 @@
 <br clear="left"/>
 <br>
 
-# My web-site : `www.itzkeeni.tk`
-
+```python
+def deb1s():
+  if deb1s play to dota:
+      deb1s.traxnyt(otchim)
+```      
 
 <h1 align="center">
   <b>My Telegram bots:</b>
