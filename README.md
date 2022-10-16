@@ -21,8 +21,8 @@
 
 ```python
 def deb1s():
-  if deb1s play to dota:
-      deb1s.traxnyt(otchim)
+  if deb1s walk to nikita:
+      deb1s+brain
 ```      
 
 <h1 align="center">
