@@ -1,16 +1,44 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://gifdb.com/images/thumbnail/discord-wumpus-waving-hello-3bdkhulls6c3f3to.gif">
+</p>
 
-<!--
-**keeniGithub/keeniGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <b>ItzKeeni</b>
+</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Discord: ItzKeeni#3170</b><br>
+  <a href="https://discord.gg/zn5usa2GAc">Discord Server</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Hello! I am Itzkeeni. I am a beginner programmer in python and Arduino C. I mainly program discord and telegram bots in python, and on arduino different sensors, displays, controllers, etc.
+
+<p align="center">
+    <img src="https://media.discordapp.net/attachments/863751311698165770/1031137532420821082/unknown_4.png">
+
+<br clear="left"/>
+<br>
+
+# My web-site : `www.itzkeeni.tk`
+
+
+<h1 align="center">
+  <b>My Telegram bots:</b>
+</h1>
+
+<p align="center">
+    <img src="https://cdn.discordapp.com/attachments/863751311698165770/1031136134962622545/unknown.png">
+
+ <p align="center">   
+    <a href="https://t.me/GoodTelegaBot">Clik here</a>
+
+___
+
+<p align="center">
+  <b>Other links: </b><br>
+  <a href="https://www.youtube.com/channel/UCM6InRH22Xno8nywrZnbhLA">Youtube</a> |
+  <a href="https://www.donationalerts.com/r/keenioff">Donate</a> |
+  <a href="https://t.me/keenitelega">Telegram</a>
+  <br><br>
+</p>
+
