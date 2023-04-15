@@ -1,47 +1,40 @@
 <p align="center">
-  <img src="https://gifdb.com/images/thumbnail/discord-wumpus-waving-hello-3bdkhulls6c3f3to.gif">
+  <img src="https://cdn.discordapp.com/attachments/871062118533845073/1096695675133112330/skinmc-avatar_6.png" style="width: 250px">
 </p>
 
-<h1 align="center">
-  <b>ItzKeeni</b>
-</h1>
+<div align="center">
+    <br><br>
+    <h1>ItzKeeni#0006</h1 width: 120px>
+</div>
 
-<p align="center">
-  <b>Discord: ItzKeeni#3170</b><br>
-  <a href="https://discord.gg/zn5usa2GAc">Discord Server</a>
+<div align="center">
+<br><br>
+<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)"/>
+<br><br>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> <img src="" />
+<br><br>
+</div>
 
 
-## Hello! I am Itzkeeni. I am a beginner programmer in python and Arduino C. I mainly program discord and telegram bots in python, and on arduino different sensors, displays, controllers, etc.
-
-<p align="center">
-    <img src="https://media.discordapp.net/attachments/863751311698165770/1031137532420821082/unknown_4.png">
-
-<br clear="left"/>
-<br>
 
 ```python
-def deb1s():
-  if deb1s walk to nikita:
-      deb1s+brain
-```      
+#Infinity Bitcoin Mainer
+from crypto import *
+While True:
+    Bitcoin++
+ ```      
 
-<h1 align="center">
-  <b>My Telegram bots:</b>
-</h1>
-
-<p align="center">
-    <img src="https://cdn.discordapp.com/attachments/863751311698165770/1031136134962622545/unknown.png">
 
  <p align="center">   
-    <a href="https://t.me/GoodTelegaBot">Clik here</a>
+    <a href="https://play.pretzelcraft.fun">PretzelCraft</a>
 
 ___
 
 <p align="center">
   <b>Other links: </b><br>
   <a href="https://www.youtube.com/channel/UCM6InRH22Xno8nywrZnbhLA">Youtube</a> |
-  <a href="https://www.donationalerts.com/r/keenioff">Donate</a> |
-  <a href="https://t.me/keenitelega">Telegram</a>
+  <a href="https://www.donationalerts.com/r/ItzKeeni">Donate</a> |
+  <a href="https://discord.gg/knPVuaR3Kg">Discord</a>
   <br><br>
 </p>
 
