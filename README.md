@@ -15,19 +15,6 @@
 <br><br>
 </div>
 
-
-
-```python
-#Infinity Bitcoin Mainer
-from crypto import *
-While True:
-    Bitcoin++
- ```      
-
-
- <p align="center">   
-    <a href="https://play.pretzelcraft.fun">PretzelCraft</a>
-
 ___
 
 <p align="center">
