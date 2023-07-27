@@ -4,7 +4,7 @@
 
 <div align="center">
     <br><br>
-    <h1>ItzKeeni#0006</h1 width: 120px>
+    <h1>ItzKeeni</h1 width: 120px>
 </div>
 
 <div align="center">
