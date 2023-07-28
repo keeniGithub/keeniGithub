@@ -22,6 +22,8 @@
 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
+<hr>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keenigithub&theme=solarized_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=keenigithub&theme=solarized_dark)
 
 <h1 align="center">Other link</h1>
