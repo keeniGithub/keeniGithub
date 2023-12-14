@@ -1,4 +1,4 @@
-<p style="font-size: 35px;">🤔 Who am I</p>
+<h2>🤔 Who am I</h2>
 
 <p style="font-size: 20px;">Hello! I am Kenyka (Кеняка) or ItzKeeni. I’ve been programming for 2 years, I’m studying Junior FrontEnd Development, I know Python, I write bots for discord and telegram.
 
@@ -6,7 +6,7 @@
 </p>
 <p style="font-size: 20px;">I’m still actively running my YouTube channel and started learning blender</p></p>
 
-<p style="font-size: 35px;">👨‍💻 My stack</p>
+<h2>👨‍💻 My stack</h2>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
@@ -18,7 +18,7 @@
 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-<p style="font-size: 35px;">✨I work with</p>
+<h2>✨I work with</h2>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 
