@@ -67,6 +67,8 @@
 ## 🔗 Ссылки
 
 - [GitHub](https://github.com/keenigithub)
+- [Kwork](https://kwork.ru/user/itzkeeni)
+- [Funpay](https://funpay.com/users/5485083)
 - [Telegram](https://t.me/itzkeeni)
 - [VK](https://vk.com/itzkeeni)
 - [Steam](https://steamcommunity.com/id/itzkeeni)
