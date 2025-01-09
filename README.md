@@ -1,10 +1,10 @@
-<h2>🤔 Обо Мне</h2>
+## 🤔 Обо Мне
 
 <p style="font-size: 20px;"><b>FrontEnd React/Next</b> и <b>Python</b> разработчик. По нику Кеняка (АКА Кеени), программирую <b>3,5 года</b>, хочу стать <b>FullStack Разработчиком</b> к совершеннолетию </p>
 
 <p style="font-size: 15px;">Так же занимаюсь <b>3д-Моделированием</b> и дизайном в <b>Figma</b></p>
 
-## 💡 Основные проекты:
+## 💡 Основные проекты
 
 - [KenyCloud](https://keny.cloud)
 - [Notter](https://notter.tech)
@@ -14,21 +14,7 @@
 
 Другие мои проекты можете найти в репозиториях
 
-## 💻 Мои команды/студии:
-
-### Qualsu
-
-- [Сайт](https://qual.su)
-- [GitHub](https://github.com/qualsu)
-- [Telegram](https://t.me/qualsu)
-
-### SandStone (Заброшенно)
-
-- [Сайт](https://sandstone.fun)
-- [GitHub](https://github.com/sandstonehub)
-- [Discord](https://discord.gg/GZAXy5CKM9)
-
-<h2>👨‍💻 Мой Стэк</h2>
+## 👨‍💻 Мой Стэк
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
@@ -45,7 +31,7 @@
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 <img src="https://i.ibb.co/pvMBqZp/convex-Badge.png" width="85px" height="28px"> ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<h2>✨ Работаю с</h2>
+## ✨ Работаю с
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -63,6 +49,20 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
+
+## 💻 Мои команды/студии
+
+### Qualsu
+
+- [Сайт](https://qual.su)
+- [GitHub](https://github.com/qualsu)
+- [Telegram](https://t.me/qualsu)
+
+### SandStone (Заброшенно)
+
+- [Сайт](https://sandstone.fun)
+- [GitHub](https://github.com/sandstonehub)
+- [Discord](https://discord.gg/GZAXy5CKM9)
 
 ## 🔗 Ссылки
 
