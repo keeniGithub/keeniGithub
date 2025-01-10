@@ -1,0 +1,8 @@
+html {
+    scrollbar-color: #0D1117 #09090b;
+}
+
+#draggable {
+    position: absolute;
+    top: 0px;
+}
