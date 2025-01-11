@@ -1,6 +1,5 @@
 const navDrag = document.getElementById('nav-drag')
 const draggable = document.getElementById('draggable')
-const hiddenBtn = document.querySelector('.hidden-btn')
 const readme = document.querySelector('.readme')
 let hidden = false
 

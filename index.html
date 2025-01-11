@@ -13,14 +13,14 @@
 <body class="bg-zinc-950 flex justify-center items-center h-screen">
     <div id="draggable" class="container absolute m-auto my-6 border border-neutral-800 rounded bg-[#0D1117]">
         <nav id="nav-drag" class="flex flex-row items-center justify-between bg-[#000000] px-1">
-            <section class="flex flex-row items-center justify-start text-white">
-                <img src="https://static-00.iconduck.com/assets.00/markdown-icon-2048x2048-2zsi74vy.png" alt="" class="w-4 h-4 m-2">
-                <h1>README.md</h1>
+            <section class="flex flex-row items-center justify-start text-white my-1">
+                <i data-lucide="file-code-2" class="mr-1 w-4 h-4"></i>
+                <code>README.md</code>
             </section>
             <section class="flex flex-row-reverse gap-x-2 items-center text-white">
-                <i data-lucide="x" class="w-6 h-6 hover:bg-red-500" currentcolor onclick="window.close()"></i>
-                <i data-lucide="square" class="w-6 h-6 hover:bg-zinc-900 p-0.5" currentcolor onclick="setBlock()"></i>
-                <i data-lucide="tally-1" class="-rotate-90 w-6 h-6 hover:bg-zinc-900 p-0.5 hidden-btn" currentcolor onclick="setHidden()"></i>
+                <i data-lucide="x" class="w-6 h-6 hover:bg-red-500 transition duration-300" currentcolor onclick="window.close()"></i>
+                <i data-lucide="square" class="w-6 h-6 hover:bg-zinc-900 p-0.5 transition duration-300" currentcolor onclick="setBlock()"></i>
+                <i data-lucide="minus" class="w-6 h-6 hover:bg-zinc-900 p-0.5 transition duration-300" currentcolor onclick="setHidden()"></i>
             </section>
         </nav>
         <zero-md src="README.md" class="readme p-3" style="display: block;">

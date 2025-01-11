@@ -1,6 +1,6 @@
 ## 🤔 Обо Мне
 
-<p style="font-size: 20px;"><b>FrontEnd React/Next</b> и <b>Python</b> разработчик. По нику Кеняка (АКА Кеени), программирую <b>3,5 года</b>, хочу стать <b>FullStack Разработчиком</b> к совершеннолетию </p>
+<p style="font-size: 20px;"><b>FrontEnd React/Next</b> и <b>Python</b> разработчик. По нику Кеняка <i>(АКА Кеени)</i>, программирую <b>3,5 года</b>, хочу стать <b>FullStack Разработчиком</b> к совершеннолетию </p>
 
 <p style="font-size: 15px;">Так же занимаюсь <b>3д-Моделированием</b> и дизайном в <b>Figma</b></p>
 
@@ -16,7 +16,7 @@ _Другие можете найти в репозиториях_
 
 ## 👨‍💻 Мой Стэк
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
@@ -27,7 +27,13 @@ _Другие можете найти в репозиториях_
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-<img src="https://i.ibb.co/pvMBqZp/convex-Badge.png" width="85px" height="28px"> ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://i.ibb.co/pvMBqZp/convex-Badge.png" width="85px" height="28px">
+
+## ⌛ В процессе изучения
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 ![GDScript](https://img.shields.io/badge/GDScript-%2374267B.svg?style=for-the-badge&logo=godotengine&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
