@@ -9,7 +9,7 @@
 - [KenyCloud](https://keny.cloud)
 - [Notter](https://notter.tech)
 - [Qual ID](https://id.qual.su)
-- [Voicy](https://github.com/keeniGithub/Voicy)
+- [InSDL](https://github.com/keeniGithub/InSDL)
 - [GlowLang](https://github.com/keeniGithub/GlowLang)
 
 _Другие можете найти в репозиториях_
