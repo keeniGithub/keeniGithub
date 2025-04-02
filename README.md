@@ -6,6 +6,7 @@
 
 ## 💡 Основные проекты
 
+- [Voicy](https://voicy.site)
 - [KenyCloud](https://keny.cloud)
 - [Notter](https://notter.tech)
 - [Qual ID](https://id.qual.su)
