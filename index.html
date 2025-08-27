@@ -4,54 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kenyka</title>
-    <script type="module" src="https://cdn.jsdelivr.net/npm/zero-md@3?register"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@webcomponents/webcomponentsjs@2/webcomponents-loader.min.js"></script>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="style.css">
     <link rel="icon" type="image/x-icon" href="favicon.png">
+    <meta http-equiv="refresh" content="0;url=https://guns.lol/itzkeeni">
+    <style>
+        body {
+            background: #000;
+        }
+    </style>
 </head>
-<body class="bg-zinc-950 flex justify-center items-center h-screen">
-    <div id="draggable" class="container absolute m-auto my-6 border border-neutral-800 rounded bg-[#0D1117]">
-        <nav id="nav-drag" class="flex flex-row items-center justify-between bg-[#000000] px-1">
-            <section class="flex flex-row items-center justify-start text-white my-1">
-                <i data-lucide="file-code-2" class="mr-1 w-4 h-4"></i>
-                <code>README.md</code>
-            </section>
-            <section class="flex flex-row-reverse gap-x-2 items-center text-white">
-                <i data-lucide="x" class="w-6 h-6 hover:bg-red-500 transition duration-300" currentcolor onclick="window.close()"></i>
-                <i data-lucide="square" class="w-6 h-6 hover:bg-zinc-900 p-0.5 transition duration-300" currentcolor onclick="setBlock()"></i>
-                <i data-lucide="minus" class="w-6 h-6 hover:bg-zinc-900 p-0.5 transition duration-300" currentcolor onclick="setHidden()"></i>
-            </section>
-        </nav>
-        <zero-md src="README.md" class="readme p-3" style="display: block;">
-            <template>
-
-                <!-- Sensible host style defaults -->
-                <style>
-                  :host { display: block; position: relative; contain: content; }
-                  :host([hidden]) { display: none; }
-                </style>
-            
-                <!-- Github markdown styles (light/dark) -->
-                <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@5/github-markdown.min.css" />
-            
-                <!-- Highlightjs Github theme (light) -->
-                <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@highlightjs/cdn-assets@11/styles/github-dark.min.css" />
-            
-                <!-- Highlightjs Github theme (prefers dark) -->
-                <link rel="stylesheet" media="(prefers-color-scheme:dark)" href="https://cdn.jsdelivr.net/npm/@highlightjs/cdn-assets@11/styles/github-dark.min.css" />
-            
-                <!-- KaTeX styles (needed for math) -->
-                <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0/dist/katex.min.css" />
-            
-              </template>
-        </zero-md>
-    </div>
-
-    <script src="script.js"></script>
-    <script src="https://unpkg.com/lucide@latest"></script>
-    <script>
-        lucide.createIcons();
-    </script>
+<body>
+    
 </body>
 </html>
