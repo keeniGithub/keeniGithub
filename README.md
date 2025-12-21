@@ -6,10 +6,8 @@
 
 ## 💡 Основные проекты
 
-- [Voicy](https://voicy.site)
-- [KenyCloud](https://keny.cloud)
+- [Qualsu](https://qual.su)
 - [Notter](https://notter.tech)
-- [Qual ID](https://id.qual.su)
 - [InSDL](https://github.com/keeniGithub/InSDL)
 - [GlowLang](https://github.com/keeniGithub/GlowLang)
 
