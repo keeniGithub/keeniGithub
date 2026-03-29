@@ -6,6 +6,8 @@ Building projects for 3+ years, have my own development studio [@Qualsu](https:/
 
 <b>Website with links: [thekeny.ru](https://thekeny.ru)</b>
 
+[GD KenyBot](https://bot.thekeny.ru) and [Notter](https://notter.su) developer 🤙
+
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
