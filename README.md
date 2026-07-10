@@ -1,6 +1,6 @@
 # I`m Kenyka
 
-Frontend Next.JS and Python developer
+Frontend Next.JS and Python/C++ developer
 
 Building projects for 3+ years, have my own development studio [@Qualsu](https://github.com/qualsu)
 
